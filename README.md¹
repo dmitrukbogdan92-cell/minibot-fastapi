@@ -1,0 +1,9 @@
+# Мінібот-FastAPI
+
+Проєкт для тесту моделі `novagatednet_v2.py`.
+
+## Встановлення
+```bash
+git clone https://github.com/dmitrukbc/minibot-fastapi.git
+cd minibot-fastapi
+pip install -r requirements.txt
